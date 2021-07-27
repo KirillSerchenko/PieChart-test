@@ -1,3 +1,8 @@
+# Steps to install
+- Download Zip files
+- run yarn install
+- run yarn start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
